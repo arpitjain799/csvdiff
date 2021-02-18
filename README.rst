@@ -2,11 +2,7 @@
 csvdiff
 ===============================
 
-.. image:: https://badge.fury.io/py/csvdiff.png
-    :target: http://badge.fury.io/py/csvdiff
-
-.. image:: https://travis-ci.org/larsyencken/csvdiff.png?branch=master
-        :target: https://travis-ci.org/larsyencken/csvdiff
+*This project is no longer maintained. Please consider forking it if you have the interest and time.*
 
 Overview
 --------
